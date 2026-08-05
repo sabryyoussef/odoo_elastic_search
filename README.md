@@ -336,3 +336,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Made with ❤️ for the Odoo Community**
 
 For detailed AI agent integration, see [AI_AGENT_SETUP.md](docs/AI_AGENT_SETUP.md)
+
+## Public notes
+Search integration patterns using Elasticsearch with Odoo.
+
+### Limitations
+Requires a correctly secured Elasticsearch cluster; do not expose clusters publicly without auth.
+
